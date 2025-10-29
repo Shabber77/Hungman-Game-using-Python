@@ -1,3 +1,4 @@
+🕹️ Hangman Game in Python
 Overview
 This is a simple command-line Hangman game implemented in Python. The player tries to guess a randomly selected word one letter at a time. The game ends when the player either guesses the word correctly or runs out of tries.
 
@@ -23,3 +24,4 @@ Example Word List
 words = ['python', 'hangman', 'challenge', 'programming', 'algorithm', 'function']
 License
 This project is open-source and free to use for educational or personal purposes.
+
